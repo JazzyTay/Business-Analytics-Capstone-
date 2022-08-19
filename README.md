@@ -1,6 +1,5 @@
-# Business-Analytics-Capstone-
+# Business Analytics Capstone
 Business Analytics Capstone Project University of Pennsylvania Wharton
-Business Analytics Specialization University of Pennsylvania Wharton
 
 https://online.wharton.upenn.edu/business-analytics/
 
